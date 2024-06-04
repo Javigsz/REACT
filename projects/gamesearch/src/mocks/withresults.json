@@ -1,0 +1,1272 @@
+{
+    "count": 9,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "knack",
+        "name": "Knack",
+        "playtime": 5,
+        "platforms": [
+          {
+            "platform": {
+              "id": 18,
+              "name": "PlayStation 4",
+              "slug": "playstation4"
+            }
+          }
+        ],
+        "stores": [
+          {
+            "store": {
+              "id": 3,
+              "name": "PlayStation Store",
+              "slug": "playstation-store"
+            }
+          }
+        ],
+        "released": "2013-11-15",
+        "tba": false,
+        "background_image": "https://media.rawg.io/media/games/99d/99dddca3736b9fbcfa7630054de24a5f.jpg",
+        "rating": 3.1,
+        "rating_top": 3,
+        "ratings": [
+          {
+            "id": 3,
+            "title": "meh",
+            "count": 225,
+            "percent": 48.81
+          },
+          {
+            "id": 4,
+            "title": "recommended",
+            "count": 146,
+            "percent": 31.67
+          },
+          {
+            "id": 1,
+            "title": "skip",
+            "count": 70,
+            "percent": 15.18
+          },
+          {
+            "id": 5,
+            "title": "exceptional",
+            "count": 20,
+            "percent": 4.34
+          }
+        ],
+        "ratings_count": 458,
+        "reviews_text_count": 2,
+        "added": 2012,
+        "added_by_status": {
+          "yet": 69,
+          "owned": 1509,
+          "beaten": 228,
+          "toplay": 20,
+          "dropped": 172,
+          "playing": 14
+        },
+        "metacritic": 54,
+        "suggestions_count": 433,
+        "updated": "2024-05-12T12:28:25",
+        "id": 3849,
+        "score": "68.13279",
+        "clip": null,
+        "tags": [
+          {
+            "id": 37796,
+            "name": "exclusive",
+            "slug": "exclusive",
+            "language": "eng",
+            "games_count": 4496,
+            "image_background": "https://media.rawg.io/media/games/951/951572a3dd1e42544bd39a5d5b42d234.jpg"
+          },
+          {
+            "id": 37797,
+            "name": "true exclusive",
+            "slug": "true-exclusive",
+            "language": "eng",
+            "games_count": 3983,
+            "image_background": "https://media.rawg.io/media/games/bfe/bfe7780b7d4342540be2e5273d49e54c.jpg"
+          }
+        ],
+        "esrb_rating": {
+          "id": 2,
+          "name": "Everyone 10+",
+          "slug": "everyone-10-plus",
+          "name_en": "Everyone 10+",
+          "name_ru": "С 10 лет"
+        },
+        "user_game": null,
+        "reviews_count": 461,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [
+          {
+            "id": -1,
+            "image": "https://media.rawg.io/media/games/99d/99dddca3736b9fbcfa7630054de24a5f.jpg"
+          },
+          {
+            "id": 768685,
+            "image": "https://media.rawg.io/media/screenshots/b02/b0260ab9817ccfd9a39da287243e2d54.jpg"
+          },
+          {
+            "id": 768686,
+            "image": "https://media.rawg.io/media/screenshots/621/6214872a9613364d2ade8553f27bb643.jpg"
+          },
+          {
+            "id": 768687,
+            "image": "https://media.rawg.io/media/screenshots/22e/22e51f2bf1596357d7d695f7612f796d.jpg"
+          },
+          {
+            "id": 768688,
+            "image": "https://media.rawg.io/media/screenshots/35e/35efb21029d6a033c0fbf0af549c46dc.jpg"
+          },
+          {
+            "id": 768689,
+            "image": "https://media.rawg.io/media/screenshots/46b/46b8229f062e7bf7499cff438a96f9da.jpg"
+          },
+          {
+            "id": 768690,
+            "image": "https://media.rawg.io/media/screenshots/7be/7be5ae9722fa45a1fa99e8130220ad64.jpg"
+          }
+        ],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 2,
+              "name": "PlayStation",
+              "slug": "playstation"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ]
+      },
+      {
+        "slug": "knack-2",
+        "name": "Knack 2",
+        "playtime": 0,
+        "platforms": [
+          {
+            "platform": {
+              "id": 18,
+              "name": "PlayStation 4",
+              "slug": "playstation4"
+            }
+          }
+        ],
+        "stores": [
+          {
+            "store": {
+              "id": 3,
+              "name": "PlayStation Store",
+              "slug": "playstation-store"
+            }
+          }
+        ],
+        "released": "2017-09-05",
+        "tba": false,
+        "background_image": "https://media.rawg.io/media/games/264/264f6b47e63e639a2c7e837bcea463e6.jpg",
+        "rating": 3.33,
+        "rating_top": 4,
+        "ratings": [
+          {
+            "id": 4,
+            "title": "recommended",
+            "count": 34,
+            "percent": 43.59
+          },
+          {
+            "id": 3,
+            "title": "meh",
+            "count": 32,
+            "percent": 41.03
+          },
+          {
+            "id": 1,
+            "title": "skip",
+            "count": 8,
+            "percent": 10.26
+          },
+          {
+            "id": 5,
+            "title": "exceptional",
+            "count": 4,
+            "percent": 5.13
+          }
+        ],
+        "ratings_count": 78,
+        "reviews_text_count": 0,
+        "added": 719,
+        "added_by_status": {
+          "yet": 35,
+          "owned": 572,
+          "beaten": 52,
+          "toplay": 24,
+          "dropped": 33,
+          "playing": 3
+        },
+        "metacritic": 71,
+        "suggestions_count": 598,
+        "updated": "2024-03-09T17:29:45",
+        "id": 29204,
+        "score": "32.205753",
+        "clip": null,
+        "tags": [
+          {
+            "id": 31,
+            "name": "Singleplayer",
+            "slug": "singleplayer",
+            "language": "eng",
+            "games_count": 220522,
+            "image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+          },
+          {
+            "id": 7,
+            "name": "Multiplayer",
+            "slug": "multiplayer",
+            "language": "eng",
+            "games_count": 37503,
+            "image_background": "https://media.rawg.io/media/games/b49/b4912b5dbfc7ed8927b65f05b8507f6c.jpg"
+          },
+          {
+            "id": 37796,
+            "name": "exclusive",
+            "slug": "exclusive",
+            "language": "eng",
+            "games_count": 4496,
+            "image_background": "https://media.rawg.io/media/games/951/951572a3dd1e42544bd39a5d5b42d234.jpg"
+          },
+          {
+            "id": 37797,
+            "name": "true exclusive",
+            "slug": "true-exclusive",
+            "language": "eng",
+            "games_count": 3983,
+            "image_background": "https://media.rawg.io/media/games/bfe/bfe7780b7d4342540be2e5273d49e54c.jpg"
+          },
+          {
+            "id": 229,
+            "name": "3D Platformer",
+            "slug": "3d-platformer",
+            "language": "eng",
+            "games_count": 9836,
+            "image_background": "https://media.rawg.io/media/screenshots/157/1571cdfb52888191eabaf53c2b897240.jpg"
+          }
+        ],
+        "esrb_rating": {
+          "id": 2,
+          "name": "Everyone 10+",
+          "slug": "everyone-10-plus",
+          "name_en": "Everyone 10+",
+          "name_ru": "С 10 лет"
+        },
+        "user_game": null,
+        "reviews_count": 78,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [
+          {
+            "id": -1,
+            "image": "https://media.rawg.io/media/games/264/264f6b47e63e639a2c7e837bcea463e6.jpg"
+          },
+          {
+            "id": 287075,
+            "image": "https://media.rawg.io/media/screenshots/3b6/3b618241ac49728a8150ecf918a0aa42.jpg"
+          },
+          {
+            "id": 287076,
+            "image": "https://media.rawg.io/media/screenshots/7a4/7a4f87d0722f3294222db536ee232af5.jpg"
+          },
+          {
+            "id": 287077,
+            "image": "https://media.rawg.io/media/screenshots/be3/be3e4ed0a0cb93912019066657e2bb6e.jpg"
+          },
+          {
+            "id": 287078,
+            "image": "https://media.rawg.io/media/screenshots/325/325a6d8680224c2bd48a7a1cf0b102f6.jpg"
+          },
+          {
+            "id": 287079,
+            "image": "https://media.rawg.io/media/screenshots/a67/a678f9b6a3728c2931a8d170bdded81d.jpg"
+          },
+          {
+            "id": 287080,
+            "image": "https://media.rawg.io/media/screenshots/7e5/7e59457fa9c8583480148488d671ad6c.jpg"
+          }
+        ],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 2,
+              "name": "PlayStation",
+              "slug": "playstation"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ]
+      },
+      {
+        "slug": "knack-e-runner",
+        "name": "Knack e-runner",
+        "playtime": 0,
+        "platforms": [
+          {
+            "platform": {
+              "id": 4,
+              "name": "PC",
+              "slug": "pc"
+            }
+          }
+        ],
+        "stores": [
+          {
+            "store": {
+              "id": 9,
+              "name": "itch.io",
+              "slug": "itch"
+            }
+          }
+        ],
+        "released": "2022-01-23",
+        "tba": false,
+        "background_image": "https://media.rawg.io/media/screenshots/915/915e3b450e931ad7ca8e5ee13ee76376.jpg",
+        "rating": 0,
+        "rating_top": 0,
+        "ratings": [],
+        "ratings_count": 0,
+        "reviews_text_count": 0,
+        "added": 0,
+        "added_by_status": null,
+        "metacritic": null,
+        "suggestions_count": 0,
+        "updated": "2022-01-24T05:13:26",
+        "id": 726199,
+        "score": "27.144077",
+        "clip": null,
+        "tags": [
+          {
+            "id": 31,
+            "name": "Singleplayer",
+            "slug": "singleplayer",
+            "language": "eng",
+            "games_count": 146583,
+            "image_background": "https://media.rawg.io/media/games/91c/91c4f377c1e09755b60a0102c5252843.jpg"
+          },
+          {
+            "id": 571,
+            "name": "3D",
+            "slug": "3d",
+            "language": "eng",
+            "games_count": 53329,
+            "image_background": "https://media.rawg.io/media/screenshots/b29/b291197d50dea8e6c9cb7f7eb6d2242d.jpeg"
+          },
+          {
+            "id": 310,
+            "name": "Runner",
+            "slug": "runner",
+            "language": "eng",
+            "games_count": 7598,
+            "image_background": "https://media.rawg.io/media/screenshots/e39/e39651e5a9faf0b545b551e19e6d5845.jpg"
+          },
+          {
+            "id": 607,
+            "name": "Unity",
+            "slug": "unity",
+            "language": "eng",
+            "games_count": 51387,
+            "image_background": "https://media.rawg.io/media/screenshots/899/8992f5a5f300acc6397a8b5575bf9744.jpg"
+          }
+        ],
+        "esrb_rating": null,
+        "user_game": null,
+        "reviews_count": 0,
+        "community_rating": 0,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [
+          {
+            "id": -1,
+            "image": "https://media.rawg.io/media/screenshots/915/915e3b450e931ad7ca8e5ee13ee76376.jpg"
+          },
+          {
+            "id": 3202904,
+            "image": "https://media.rawg.io/media/screenshots/915/915e3b450e931ad7ca8e5ee13ee76376.jpg"
+          }
+        ],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 1,
+              "name": "PC",
+              "slug": "pc"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ]
+      },
+      {
+        "slug": "knack-3",
+        "name": "KNACK!",
+        "playtime": 1,
+        "platforms": [
+          {
+            "platform": {
+              "id": 4,
+              "name": "PC",
+              "slug": "pc"
+            }
+          }
+        ],
+        "stores": [
+          {
+            "store": {
+              "id": 1,
+              "name": "Steam",
+              "slug": "steam"
+            }
+          }
+        ],
+        "released": "2018-02-27",
+        "tba": false,
+        "background_image": "https://media.rawg.io/media/screenshots/45b/45b309f00b145ac7aabcfc88a3f28e02.jpg",
+        "rating": 0,
+        "rating_top": 0,
+        "ratings": [
+          {
+            "id": 1,
+            "title": "skip",
+            "count": 1,
+            "percent": 100
+          }
+        ],
+        "ratings_count": 1,
+        "reviews_text_count": 0,
+        "added": 11,
+        "added_by_status": {
+          "owned": 11
+        },
+        "metacritic": null,
+        "suggestions_count": 53,
+        "updated": "2019-08-28T21:54:24",
+        "id": 65226,
+        "score": "22.265808",
+        "clip": null,
+        "tags": [
+          {
+            "id": 31,
+            "name": "Singleplayer",
+            "slug": "singleplayer",
+            "language": "eng",
+            "games_count": 215291,
+            "image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+          },
+          {
+            "id": 42396,
+            "name": "Для одного игрока",
+            "slug": "dlia-odnogo-igroka",
+            "language": "rus",
+            "games_count": 41769,
+            "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+          },
+          {
+            "id": 42417,
+            "name": "Экшен",
+            "slug": "ekshen",
+            "language": "rus",
+            "games_count": 36350,
+            "image_background": "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg"
+          },
+          {
+            "id": 42392,
+            "name": "Приключение",
+            "slug": "prikliuchenie",
+            "language": "rus",
+            "games_count": 34255,
+            "image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+          },
+          {
+            "id": 40847,
+            "name": "Steam Achievements",
+            "slug": "steam-achievements",
+            "language": "eng",
+            "games_count": 34618,
+            "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+          },
+          {
+            "id": 42398,
+            "name": "Инди",
+            "slug": "indi-2",
+            "language": "rus",
+            "games_count": 50944,
+            "image_background": "https://media.rawg.io/media/games/5be/5bec14622f6faf804a592176577c1347.jpg"
+          },
+          {
+            "id": 40849,
+            "name": "Steam Cloud",
+            "slug": "steam-cloud",
+            "language": "eng",
+            "games_count": 16226,
+            "image_background": "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg"
+          },
+          {
+            "id": 42399,
+            "name": "Казуальная игра",
+            "slug": "kazualnaia-igra",
+            "language": "rus",
+            "games_count": 36576,
+            "image_background": "https://media.rawg.io/media/games/e9c/e9c042d14515eb3ff7cb4db9fe78e435.jpg"
+          },
+          {
+            "id": 42413,
+            "name": "Симулятор",
+            "slug": "simuliator",
+            "language": "rus",
+            "games_count": 17240,
+            "image_background": "https://media.rawg.io/media/games/7f0/7f021d4a3577ac9d591a628a431fc2e5.jpg"
+          },
+          {
+            "id": 42463,
+            "name": "Платформер",
+            "slug": "platformer-2",
+            "language": "rus",
+            "games_count": 7606,
+            "image_background": "https://media.rawg.io/media/games/0fd/0fd84d36596a83ef2e5a35f63a072218.jpg"
+          },
+          {
+            "id": 42601,
+            "name": "Цветастая",
+            "slug": "tsvetastaia",
+            "language": "rus",
+            "games_count": 11549,
+            "image_background": "https://media.rawg.io/media/games/51c/51c430f1795c79b78f863a9f22dc422d.jpg"
+          },
+          {
+            "id": 165,
+            "name": "Colorful",
+            "slug": "colorful",
+            "language": "eng",
+            "games_count": 20108,
+            "image_background": "https://media.rawg.io/media/games/fc8/fc838d98c9b944e6a15176eabf40bee8.jpg"
+          },
+          {
+            "id": 42564,
+            "name": "Расслабляющая",
+            "slug": "rasslabliaiushchaia",
+            "language": "rus",
+            "games_count": 7533,
+            "image_background": "https://media.rawg.io/media/games/51c/51c430f1795c79b78f863a9f22dc422d.jpg"
+          },
+          {
+            "id": 138,
+            "name": "Relaxing",
+            "slug": "relaxing",
+            "language": "eng",
+            "games_count": 15227,
+            "image_background": "https://media.rawg.io/media/games/9e5/9e5b91a6d02e66b8d450a977a59ae123.jpg"
+          },
+          {
+            "id": 42582,
+            "name": "Минимализм",
+            "slug": "minimalizm",
+            "language": "rus",
+            "games_count": 4503,
+            "image_background": "https://media.rawg.io/media/games/a01/a01b34c722ceec784817381eb1824fa5.jpg"
+          },
+          {
+            "id": 112,
+            "name": "Minimalist",
+            "slug": "minimalist",
+            "language": "eng",
+            "games_count": 14500,
+            "image_background": "https://media.rawg.io/media/screenshots/df4/df47a9df698c2c5b40de17e80f2f5ae0.jpeg"
+          }
+        ],
+        "esrb_rating": null,
+        "user_game": null,
+        "reviews_count": 1,
+        "community_rating": 0,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [
+          {
+            "id": -1,
+            "image": "https://media.rawg.io/media/screenshots/45b/45b309f00b145ac7aabcfc88a3f28e02.jpg"
+          },
+          {
+            "id": 868378,
+            "image": "https://media.rawg.io/media/screenshots/150/1505dfe26c5e148a8d185e53203d09e8.jpg"
+          },
+          {
+            "id": 868379,
+            "image": "https://media.rawg.io/media/screenshots/5d1/5d13d79177be0c5ee73b309cdf7c21cc.jpg"
+          },
+          {
+            "id": 868380,
+            "image": "https://media.rawg.io/media/screenshots/46a/46ad687aaa15f6c852a1d26212a9b942.jpg"
+          },
+          {
+            "id": 868381,
+            "image": "https://media.rawg.io/media/screenshots/a3a/a3abbf97e43bca3d8159bd0f855e486f.jpg"
+          },
+          {
+            "id": 868382,
+            "image": "https://media.rawg.io/media/screenshots/192/19254d30bc4509e6c6c32cc6540e266b.jpg"
+          },
+          {
+            "id": 868383,
+            "image": "https://media.rawg.io/media/screenshots/45b/45b309f00b145ac7aabcfc88a3f28e02.jpg"
+          }
+        ],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 1,
+              "name": "PC",
+              "slug": "pc"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 3,
+            "name": "Adventure",
+            "slug": "adventure"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 40,
+            "name": "Casual",
+            "slug": "casual"
+          },
+          {
+            "id": 14,
+            "name": "Simulation",
+            "slug": "simulation"
+          },
+          {
+            "id": 51,
+            "name": "Indie",
+            "slug": "indie"
+          }
+        ]
+      },
+      {
+        "slug": "saucis-knack-wars",
+        "name": "SaucIS - Knack Wars",
+        "playtime": 0,
+        "platforms": [
+          {
+            "platform": {
+              "id": 4,
+              "name": "PC",
+              "slug": "pc"
+            }
+          }
+        ],
+        "stores": [
+          {
+            "store": {
+              "id": 9,
+              "name": "itch.io",
+              "slug": "itch"
+            }
+          }
+        ],
+        "released": "2015-09-06",
+        "tba": false,
+        "background_image": "https://media.rawg.io/media/screenshots/8c8/8c87a40a7eaca73b4687f20324e174ba.jpg",
+        "rating": 0,
+        "rating_top": 0,
+        "ratings": [],
+        "ratings_count": 0,
+        "reviews_text_count": 0,
+        "added": 0,
+        "added_by_status": null,
+        "metacritic": null,
+        "suggestions_count": 48,
+        "updated": "2019-01-09T12:41:06",
+        "id": 167588,
+        "score": "18.93351",
+        "clip": null,
+        "tags": [
+          {
+            "id": 4,
+            "name": "Funny",
+            "slug": "funny",
+            "language": "eng",
+            "games_count": 10934,
+            "image_background": "https://media.rawg.io/media/games/6c5/6c55e22185876626881b76c11922b073.jpg"
+          },
+          {
+            "id": 7,
+            "name": "Multiplayer",
+            "slug": "multiplayer",
+            "language": "eng",
+            "games_count": 22719,
+            "image_background": "https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg"
+          },
+          {
+            "id": 486,
+            "name": "versus",
+            "slug": "versus",
+            "language": "eng",
+            "games_count": 1372,
+            "image_background": "https://media.rawg.io/media/screenshots/586/5868542daecadd3e893778e5435fbc74.jpg"
+          },
+          {
+            "id": 654,
+            "name": "blocks",
+            "slug": "blocks",
+            "language": "eng",
+            "games_count": 4867,
+            "image_background": "https://media.rawg.io/media/screenshots/ddf/ddf350263e012d665310ed725de0c2c7.jpg"
+          }
+        ],
+        "esrb_rating": null,
+        "user_game": null,
+        "reviews_count": 0,
+        "community_rating": 0,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [
+          {
+            "id": -1,
+            "image": "https://media.rawg.io/media/screenshots/8c8/8c87a40a7eaca73b4687f20324e174ba.jpg"
+          },
+          {
+            "id": 1226552,
+            "image": "https://media.rawg.io/media/screenshots/27f/27f3cca68e2f0172ff83317e9b6c4896.jpg"
+          },
+          {
+            "id": 1226553,
+            "image": "https://media.rawg.io/media/screenshots/a1c/a1c6c0bc610eeef3f9a1ece488b0d4c5.jpg"
+          },
+          {
+            "id": 1226555,
+            "image": "https://media.rawg.io/media/screenshots/8c8/8c87a40a7eaca73b4687f20324e174ba.jpg"
+          }
+        ],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 1,
+              "name": "PC",
+              "slug": "pc"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 7,
+            "name": "Puzzle",
+            "slug": "puzzle"
+          }
+        ]
+      },
+      {
+        "slug": "knack-den-code",
+        "name": "Knack den Code",
+        "playtime": 0,
+        "platforms": [
+          {
+            "platform": {
+              "id": 4,
+              "name": "PC",
+              "slug": "pc"
+            }
+          }
+        ],
+        "stores": [
+          {
+            "store": {
+              "id": 9,
+              "name": "itch.io",
+              "slug": "itch"
+            }
+          }
+        ],
+        "released": "2019-02-12",
+        "tba": false,
+        "background_image": "https://media.rawg.io/media/screenshots/510/510ae6615b241085d3493b0232cc739e.jpg",
+        "rating": 0,
+        "rating_top": 0,
+        "ratings": [],
+        "ratings_count": 0,
+        "reviews_text_count": 0,
+        "added": 0,
+        "added_by_status": null,
+        "metacritic": null,
+        "suggestions_count": 49,
+        "updated": "2019-02-15T05:47:43",
+        "id": 293877,
+        "score": "14.033939",
+        "clip": null,
+        "tags": [
+          {
+            "id": 652,
+            "name": "8-Bit",
+            "slug": "8-bit",
+            "language": "eng",
+            "games_count": 6926,
+            "image_background": "https://media.rawg.io/media/screenshots/16c/16c1f5e91a061e064f373406164d1e40.jpg"
+          },
+          {
+            "id": 859,
+            "name": "Commodore 64",
+            "slug": "commodore-64",
+            "language": "eng",
+            "games_count": 499,
+            "image_background": "https://media.rawg.io/media/screenshots/fdb/fdb157247531f172fc8bb10bbf4e8d40.jpg"
+          },
+          {
+            "id": 895,
+            "name": "DRM Free",
+            "slug": "drm-free",
+            "language": "eng",
+            "games_count": 490,
+            "image_background": "https://media.rawg.io/media/screenshots/bd9/bd9916f37b2abfc2ef50e80de04b70ec.jpg"
+          }
+        ],
+        "esrb_rating": null,
+        "user_game": null,
+        "reviews_count": 0,
+        "community_rating": 0,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [
+          {
+            "id": -1,
+            "image": "https://media.rawg.io/media/screenshots/510/510ae6615b241085d3493b0232cc739e.jpg"
+          },
+          {
+            "id": 1841453,
+            "image": "https://media.rawg.io/media/screenshots/510/510ae6615b241085d3493b0232cc739e.jpg"
+          }
+        ],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 1,
+              "name": "PC",
+              "slug": "pc"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 7,
+            "name": "Puzzle",
+            "slug": "puzzle"
+          }
+        ]
+      },
+      {
+        "slug": "knick-knack-knock",
+        "name": "Knick Knack Knock",
+        "playtime": 0,
+        "platforms": [
+          {
+            "platform": {
+              "id": 4,
+              "name": "PC",
+              "slug": "pc"
+            }
+          },
+          {
+            "platform": {
+              "id": 5,
+              "name": "macOS",
+              "slug": "macos"
+            }
+          },
+          {
+            "platform": {
+              "id": 6,
+              "name": "Linux",
+              "slug": "linux"
+            }
+          }
+        ],
+        "stores": [
+          {
+            "store": {
+              "id": 9,
+              "name": "itch.io",
+              "slug": "itch"
+            }
+          }
+        ],
+        "released": "2018-03-02",
+        "tba": false,
+        "background_image": "https://media.rawg.io/media/screenshots/48c/48c4b3a612bd508615b426bed17c0948.jpg",
+        "rating": 0,
+        "rating_top": 0,
+        "ratings": [],
+        "ratings_count": 0,
+        "reviews_text_count": 0,
+        "added": 0,
+        "added_by_status": null,
+        "metacritic": null,
+        "suggestions_count": 71,
+        "updated": "2019-01-09T12:41:06",
+        "id": 187634,
+        "score": "6.8160496",
+        "clip": null,
+        "tags": [
+          {
+            "id": 82,
+            "name": "Magic",
+            "slug": "magic",
+            "language": "eng",
+            "games_count": 3979,
+            "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+          },
+          {
+            "id": 1471,
+            "name": "ai",
+            "slug": "ai",
+            "language": "eng",
+            "games_count": 1480,
+            "image_background": "https://media.rawg.io/media/screenshots/ca3/ca34cd101e220397796a84acccd209a6.jpg"
+          }
+        ],
+        "esrb_rating": null,
+        "user_game": null,
+        "reviews_count": 0,
+        "community_rating": 0,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [
+          {
+            "id": -1,
+            "image": "https://media.rawg.io/media/screenshots/48c/48c4b3a612bd508615b426bed17c0948.jpg"
+          },
+          {
+            "id": 1270600,
+            "image": "https://media.rawg.io/media/screenshots/324/324fc4b9eb0972bbc7da9d6e4473b2e2.jpg"
+          },
+          {
+            "id": 1270601,
+            "image": "https://media.rawg.io/media/screenshots/428/4286e93109a14973932e008b939765b0.jpg"
+          },
+          {
+            "id": 1270603,
+            "image": "https://media.rawg.io/media/screenshots/48c/48c4b3a612bd508615b426bed17c0948.jpg"
+          }
+        ],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 1,
+              "name": "PC",
+              "slug": "pc"
+            }
+          },
+          {
+            "platform": {
+              "id": 5,
+              "name": "Apple Macintosh",
+              "slug": "mac"
+            }
+          },
+          {
+            "platform": {
+              "id": 6,
+              "name": "Linux",
+              "slug": "linux"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 7,
+            "name": "Puzzle",
+            "slug": "puzzle"
+          }
+        ]
+      },
+      {
+        "slug": "knick-knack-attack",
+        "name": "Knick Knack Attack",
+        "playtime": 0,
+        "platforms": [
+          {
+            "platform": {
+              "id": 4,
+              "name": "PC",
+              "slug": "pc"
+            }
+          }
+        ],
+        "stores": [
+          {
+            "store": {
+              "id": 9,
+              "name": "itch.io",
+              "slug": "itch"
+            }
+          }
+        ],
+        "released": "2020-05-31",
+        "tba": false,
+        "background_image": "https://media.rawg.io/media/screenshots/d68/d68514a02ca2c04c60c63db24b2aa74b.jpg",
+        "rating": 0,
+        "rating_top": 0,
+        "ratings": [],
+        "ratings_count": 0,
+        "reviews_text_count": 0,
+        "added": 0,
+        "added_by_status": null,
+        "metacritic": null,
+        "suggestions_count": 141,
+        "updated": "2020-06-01T03:11:45",
+        "id": 449442,
+        "score": "6.0491257",
+        "clip": null,
+        "tags": [
+          {
+            "id": 198,
+            "name": "Split Screen",
+            "slug": "split-screen",
+            "language": "eng",
+            "games_count": 3769,
+            "image_background": "https://media.rawg.io/media/screenshots/f2f/f2f3c93d6153da7aee590f3ab8ccd803.jpg"
+          },
+          {
+            "id": 571,
+            "name": "3D",
+            "slug": "3d",
+            "language": "eng",
+            "games_count": 28928,
+            "image_background": "https://media.rawg.io/media/games/b2c/b2c0cc14e80cfd38be0f2b2ccd4d6db5.jpg"
+          },
+          {
+            "id": 2455,
+            "name": "warrior",
+            "slug": "warrior",
+            "language": "eng",
+            "games_count": 44,
+            "image_background": "https://media.rawg.io/media/screenshots/5aa/5aa789a5f5515e8d22ca2472b4ef88c9.jpg"
+          },
+          {
+            "id": 4450,
+            "name": "2player",
+            "slug": "2player",
+            "language": "eng",
+            "games_count": 58,
+            "image_background": "https://media.rawg.io/media/screenshots/a5f/a5f139a440b27b46d7a12d03617f7921.jpg"
+          },
+          {
+            "id": 24054,
+            "name": "cgd",
+            "slug": "cgd",
+            "language": "eng",
+            "games_count": 16,
+            "image_background": "https://media.rawg.io/media/screenshots/588/58801af22887f2cd5489a7609ae1ac17.jpg"
+          },
+          {
+            "id": 51602,
+            "name": "cgdpriestley",
+            "slug": "cgdpriestley",
+            "language": "eng",
+            "games_count": 4,
+            "image_background": "https://media.rawg.io/media/screenshots/ca6/ca6dd7b68bb51e406468b86dd9fd1537.jpg"
+          }
+        ],
+        "esrb_rating": null,
+        "user_game": null,
+        "reviews_count": 0,
+        "community_rating": 0,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [
+          {
+            "id": -1,
+            "image": "https://media.rawg.io/media/screenshots/d68/d68514a02ca2c04c60c63db24b2aa74b.jpg"
+          },
+          {
+            "id": 2400328,
+            "image": "https://media.rawg.io/media/screenshots/ee6/ee6531a1aabf17e49c11a8cd4f7af286.jpg"
+          },
+          {
+            "id": 2400329,
+            "image": "https://media.rawg.io/media/screenshots/2d0/2d053fcaab92655b27cfc1de1ca37bac.jpg"
+          },
+          {
+            "id": 2400330,
+            "image": "https://media.rawg.io/media/screenshots/9c5/9c54bf43c10cb6b5d35bd3b1576637b5.jpg"
+          },
+          {
+            "id": 2400331,
+            "image": "https://media.rawg.io/media/screenshots/9de/9dea704aee1d26bb564603e4a2168c9a.jpg"
+          },
+          {
+            "id": 2400332,
+            "image": "https://media.rawg.io/media/screenshots/d68/d68514a02ca2c04c60c63db24b2aa74b.jpg"
+          }
+        ],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 1,
+              "name": "PC",
+              "slug": "pc"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          }
+        ]
+      },
+      {
+        "slug": "crawler-crane-knack",
+        "name": "Crawler Crane Knack",
+        "playtime": 0,
+        "platforms": [
+          {
+            "platform": {
+              "id": 3,
+              "name": "iOS",
+              "slug": "ios"
+            }
+          }
+        ],
+        "stores": [
+          {
+            "store": {
+              "id": 4,
+              "name": "App Store",
+              "slug": "apple-appstore"
+            }
+          }
+        ],
+        "released": "2015-07-02",
+        "tba": false,
+        "background_image": "https://media.rawg.io/media/screenshots/34c/34c54ebe5f535e53ccc0a4c131e01a41.jpg",
+        "rating": 0,
+        "rating_top": 0,
+        "ratings": [],
+        "ratings_count": 0,
+        "reviews_text_count": 0,
+        "added": 0,
+        "added_by_status": null,
+        "metacritic": null,
+        "suggestions_count": 153,
+        "updated": "2019-10-22T14:14:33",
+        "id": 242619,
+        "score": "3.7305279",
+        "clip": null,
+        "tags": [
+          {
+            "id": 114,
+            "name": "Physics",
+            "slug": "physics",
+            "language": "eng",
+            "games_count": 11043,
+            "image_background": "https://media.rawg.io/media/screenshots/c97/c97b943741f5fbc936fe054d9d58851d.jpg"
+          },
+          {
+            "id": 1863,
+            "name": "challenge",
+            "slug": "challenge",
+            "language": "eng",
+            "games_count": 10592,
+            "image_background": "https://media.rawg.io/media/games/19e/19ea8efb10fcbcf1b9c60729d510ed14.jpg"
+          }
+        ],
+        "esrb_rating": {
+          "id": 2,
+          "name": "Everyone 10+",
+          "slug": "everyone-10-plus",
+          "name_en": "Everyone 10+",
+          "name_ru": "С 10 лет"
+        },
+        "user_game": null,
+        "reviews_count": 0,
+        "community_rating": 0,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [
+          {
+            "id": -1,
+            "image": "https://media.rawg.io/media/screenshots/34c/34c54ebe5f535e53ccc0a4c131e01a41.jpg"
+          },
+          {
+            "id": 1635701,
+            "image": "https://media.rawg.io/media/screenshots/0ec/0ece3f69aafda8488bc98108e55fafe8.jpg"
+          },
+          {
+            "id": 1635702,
+            "image": "https://media.rawg.io/media/screenshots/9c9/9c9594f8f6633c814fd97103899d015a.jpg"
+          },
+          {
+            "id": 1635703,
+            "image": "https://media.rawg.io/media/screenshots/49f/49fd2af815f8a8294b73678a32c52658.jpg"
+          },
+          {
+            "id": 1635704,
+            "image": "https://media.rawg.io/media/screenshots/686/6869732d02a642f372c2151e3c71d4ee.jpg"
+          },
+          {
+            "id": 1635705,
+            "image": "https://media.rawg.io/media/screenshots/34c/34c54ebe5f535e53ccc0a4c131e01a41.jpg"
+          }
+        ],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 4,
+              "name": "iOS",
+              "slug": "ios"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 14,
+            "name": "Simulation",
+            "slug": "simulation"
+          },
+          {
+            "id": 15,
+            "name": "Sports",
+            "slug": "sports"
+          }
+        ]
+      }
+    ],
+    "user_platforms": false
+  }
