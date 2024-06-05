@@ -1,0 +1,80 @@
+button, input[type='submit']{
+  background-color:blue;
+  border-radius:3px;
+  border-width:0px;
+  margin-left:5px;
+  font-size:0.9em;
+  padding:5px;
+}
+
+.aviso1{
+  background-color:red;
+  margin-left:10px;
+  font-size:0.6em;
+  border-radius:3px;
+  padding:1px 2px;
+}
+
+.pregunta{
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  align-items:center;
+  background-color:black;
+  padding-top:10px;
+}
+
+.caja{
+  display:flex;
+  justify-content: space-evenly;
+  flex-wrap:wrap;
+  margin-top:10px;
+}
+
+.pregunta img{
+  width:200px;
+}
+
+input[type='radio'] { 
+  transform: scale(1.75); 
+}
+
+.watch{
+  color:green;
+  font-size:0.8em;
+  margin-left:5px;
+}
+
+.final input{
+  margin:10px 0px;
+}
+
+.aviso{
+  font-size:0.8em;
+  color:gray;
+}
+
+.to{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content:space-evenly;
+}
+
+.vertical{
+  border-left: thin solid gray;
+}
+
+.imprimir{
+  margin-left:20px;
+  font-size:0.8em;
+}
+
+.imprimir img{
+  width:200px;
+}
+
+.dato{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content:space-evenly;
+}
