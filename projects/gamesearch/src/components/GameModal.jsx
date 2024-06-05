@@ -33,16 +33,16 @@ export function GameModal ({modal,newModal}) {
                 )}</div>
                 {modal.stores && <p><b>Stores:</b> {modal.stores.map((p) => p.store.name).join(', ')}</p>}
                 {modal.metacritic && <p><b>Metacritic:</b> {modal.metacritic}</p>}
-                <div className="gameShortImages">
                 {images.length>0 
-                    ?   <div >
+                    ?   <div className="existingImages">
                             <button onClick={goPrevious}>&#8592;</button>
                             <img src={images[i].image}/>
                             <button onClick={goNext}>&#8594;</button>
                         </div>
-                    :   <img src='../game.jpg' />
+                    :   <div className="existingImages">
+                            <img src='../game.jpg' />
+                        </div>
                 }
-                </div>
                 <button onClick={backButton}>Back</button>
             </div>
             
