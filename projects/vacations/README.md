@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Very simple application for choosing a destination for vacations.
+Made with React.
+Hooks used: useState, useForm, useContext, react-router-dom
+
 ## Available Scripts
 
 In the project directory, you can run:
