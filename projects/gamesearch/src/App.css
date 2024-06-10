@@ -29,7 +29,7 @@ main{
 .games_grid {
     padding:10px;
     display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
     gap:20px;
     width:100%;
 }
@@ -38,11 +38,12 @@ main{
     border-radius:8px;
     border-width:4px;
     border-style:solid;
-    border-color:gray;
+    border-color:black;
     width:100%;
     height:300px;
     overflow:hidden;
     background-color:rgb(39, 38, 38);
+    position:relative;
 }
 
 .game p{
@@ -52,25 +53,26 @@ main{
 .img_game{
     width:100%;
     height:80%;
+    position:relative;
+    padding:10px;   
 }
 
 .game img{
     width:100%;
     height:100%;
+    border-radius:8px;
 }
 
 .game_info{
     display:flex;
     justify-content:space-between;
     align-items:center;
-}
-
-.date{
     color:white;
+    padding:0px 10px;
 }
 
 .game:hover{
-    border-color:black;
+    border-color:gray;
     cursor: pointer;
 }
 
@@ -99,6 +101,7 @@ p {
     border-radius:5px;
     border-color:black;
     border-style:solid;
+    color:white;
   }
 
 .existingImages{

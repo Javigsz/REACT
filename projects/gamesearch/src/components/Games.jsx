@@ -28,7 +28,7 @@ function ListOfGames ({ games }) {
                 : <img src='../game.jpg' alt={e.name}></img>}
               </div>
               <div className="game_info">
-                <b><h5>{e.name}</h5></b>
+                <b><p>{e.name}</p></b>
                 {e.released && <p className="date">{e.released}</p>}
               </div>
             </div>
