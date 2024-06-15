@@ -3,7 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Hangman game created with React. It has Javascript related questions.
-Hooks used: useState, useEffect, useContext
+Hooks used: useState, useEffect, useContext  
+
 react-router-dom, private routing
 
 ## Available Scripts
