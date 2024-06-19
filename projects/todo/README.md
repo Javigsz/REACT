@@ -2,7 +2,7 @@ Simple to-do list made with react. Yes, I know, another one...
 
 Hooks used: useReducer, customHooks. I could have used useContext as well.
 
-Also tried Sonner: https://sonner.emilkowal.ski/
+Also tried and used Sonner: https://sonner.emilkowal.ski/
 
 # React + Vite
 
