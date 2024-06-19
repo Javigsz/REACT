@@ -1,3 +1,4 @@
+import { toast } from "sonner"
 /* eslint-disable react/prop-types */
 export const Todo = ( {todo,editTodo,deleteTodo,completeTodo,uncompleteTodo} ) => {
 
@@ -9,10 +10,12 @@ export const Todo = ( {todo,editTodo,deleteTodo,completeTodo,uncompleteTodo} ) =
 
     const handleClickDelete = () => {
         deleteTodo(todo.id)
+        toast.error(todo.title + ' deleted!')
     }
 
     const handleClickComplete = () => {
         completeTodo(todo.id)
+        toast.success(todo.title + ' completed!')
     }
 
     const handleClickUncomplete = () => {
@@ -21,7 +24,6 @@ export const Todo = ( {todo,editTodo,deleteTodo,completeTodo,uncompleteTodo} ) =
 
     return (
         <>
-
         <input 
             type="text"
             value = {todo.title} 
