@@ -1,0 +1,80 @@
+.App{
+    background-color:rgb(173, 195, 242);
+    padding: 10px;
+    margin:20px auto;
+    width:400px;
+    border-radius:5px;
+    font-family:cursive;
+}
+
+h1{
+    text-align:center;
+}
+
+.todos{
+    text-align:center;
+    
+}
+
+.todo {
+    width:300px;
+    margin: 0 auto;
+    text-align: center;
+    border-width: 2px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color:white;
+}
+
+.todo .complete, .todo .uncomplete, .todo .thrash {
+    width:3px;
+    height:10px;
+    font-size:12px;
+    text-align:center;
+}
+
+.todo span:hover {
+    cursor: pointer;
+}
+
+.complete{
+    float:left;
+}
+
+.uncomplete{
+    float:left;
+}
+
+.thrash{
+    float:right;
+    margin-right:10px;
+}
+
+.line {
+    text-decoration:line-through;
+    color:rgb(93, 89, 89);
+    opacity:0.5;
+}
+
+p{
+    margin:0;
+    width:200px;
+}
+
+.todo input{
+    margin: 0;
+    padding: 0;
+    background-color:white;
+    border-width:0px;
+    text-align: center;
+    font-size:14px;
+    width:100%;
+    font-family:cursive;
+}
+
+.todo input:focus{
+    border-width:2px;
+}
