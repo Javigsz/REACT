@@ -1,3 +1,7 @@
+Crud table project made with React using:
+
+React-Redux, createAsyncThunk, bootstrap, an API created with Flask
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
