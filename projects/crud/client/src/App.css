@@ -1,0 +1,45 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.table1{
+  display:flex;
+  justify-content: center;
+  margin:20px;
+}
+
+.table1 img{
+  width:25px;
+}
+
+.table1 .icons, .table .avatars{
+  text-align:center;
+}
+
+.table .icon{
+  cursor:pointer;
+  margin: 0px 2px;
+}
+
+.formContainer{
+  width:50%;
+  margin:0 auto;
+}
+
+.formContainer button {
+  margin:5px;
+}
+
+.error-msg{
+  text-align: center;
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+}
+
+.error-msg button{
+  margin: 0px 5px;
+}
