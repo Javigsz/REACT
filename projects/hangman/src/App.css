@@ -1,3 +1,7 @@
+#root{
+    font-family:cursive;
+}
+
 img{
     width:200px;
 }
@@ -40,6 +44,29 @@ img{
     justify-content: center;
     color:black;
     margin:30px;
+}
+
+button{
+    font-size:20px;
+    margin:10px;
+    padding:10px;
+    border-radius:3px;
+    border-width:1px;
+    border-style:solid;
+    background-color:white;
+}
+
+a:link { 
+    text-decoration: none; 
+} 
+a:visited { 
+    text-decoration: none; 
+} 
+a:hover { 
+    text-decoration: none; 
+} 
+a:active { 
+    text-decoration: none; 
 }
 
 .botones button{

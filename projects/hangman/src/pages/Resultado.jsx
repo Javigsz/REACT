@@ -26,7 +26,7 @@ const Resultado = () => {
         </div>
       }
       <button onClick={reset}>
-        <Link to="/">Volver a jugar</Link>
+        <Link to="/">Play again</Link>
       </button>
     </div>
   )
