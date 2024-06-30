@@ -43,6 +43,7 @@ const Principal = () => {
 
         let noEncontrado = 0;
 
+        // eslint-disable-next-line array-callback-return
         randomElement.palabro.split('').map(p => {
             if(adivinado.split('').find(e => e===p) === undefined){
                 noEncontrado++;
